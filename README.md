@@ -1,5 +1,5 @@
 
-
+<a href="https://k-rewd.github.io/"><img src="https://i.pinimg.com/originals/84/ca/4f/84ca4faf3c8db74c0237657129ada163.png" title="me logo">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -22,7 +22,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## "No problem can withstand the assault of sustained thinking."
+## "ratatata!"
 <a href="https://www.linkedin.com/in/andrew-k-474479123/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://angel.co/u/andrew-kim-174">![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)</a>
 <a href="https://my.indeed.com/resume/editor?hl=en_US&co=US">![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)</a>
